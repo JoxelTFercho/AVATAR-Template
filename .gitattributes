@@ -1,3 +1,6 @@
 # .gitattributes
 
+*.xml -diff
 *.xml binary
+
+
